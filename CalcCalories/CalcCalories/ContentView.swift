@@ -63,7 +63,7 @@ struct ContentView: View {
                     }
                     .pickerStyle(SegmentedPickerStyle())
                 }.padding()
-
+                
                 Spacer()
                 
                 VStack(){
@@ -80,7 +80,7 @@ struct ContentView: View {
             .padding(.all, 25)
             
         }
-
+        
     }
     
     

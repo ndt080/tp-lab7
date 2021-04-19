@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "UbgUYyMO1TNS7Ds4yHFS37W0e09b25BM3fYrDDI-1mMAcIeSJLgvqWB8phspEnPaFD_tfyX-ORTuEQ-TZWtwF0ysUE4WJtlnWqgmMcFEK5adxSOrgys00RlKu9XyngqWqNAPpiTlAthADc82iNI719my-Oo4-2xIu1BPViUuvQYRxDEi1tb9x1qA_8jNUfbDpMw3m-tXHBXV4g_hLgLa5ghQO9b0jdYUDVVffqC_7-Pt5ji-2.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "UbgUYyMO1TNS7Ds4yHFS37W0e09b25BM3fYrDDI-1mMAcIeSJLgvqWB8phspEnPaFD_tfyX-ORTuEQ-TZWtwF0ysUE4WJtlnWqgmMcFEK5adxSOrgys00RlKu9XyngqWqNAPpiTlAthADc82iNI719my-Oo4-2xIu1BPViUuvQYRxDEi1tb9x1qA_8jNUfbDpMw3m-tXHBXV4g_hLgLa5ghQO9b0jdYUDVVffqC_7-Pt5ji.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "UbgUYyMO1TNS7Ds4yHFS37W0e09b25BM3fYrDDI-1mMAcIeSJLgvqWB8phspEnPaFD_tfyX-ORTuEQ-TZWtwF0ysUE4WJtlnWqgmMcFEK5adxSOrgys00RlKu9XyngqWqNAPpiTlAthADc82iNI719my-Oo4-2xIu1BPViUuvQYRxDEi1tb9x1qA_8jNUfbDpMw3m-tXHBXV4g_hLgLa5ghQO9b0jdYUDVVffqC_7-Pt5ji-1.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
